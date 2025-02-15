@@ -8,8 +8,8 @@
   - [User creation in PowerShell](https://github.com/nstroude/user-creation)
   - [Group Policy and Access Control Management](https://github.com/nstroude/access-ctrl)
 - <b>Network File Sharing and Access Control</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network File Permissions](https://github.com/nstroude/network-file-setup)
+  - [Testing User Access Controls](https://github.com/nstroude/testing-access)
 
 <h2>🤳Connect with me:</h2>
 
