@@ -5,7 +5,8 @@
 - <b>Microsoft Azure</b>
   - [Preparing Infrastructure for Active Directory in Azure](https://github.com/nstroude/Active-Directory-infrastructure)
   - [Deploying Active Directory](https://github.com/nstroude/AD-Deploy)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/nstroude/ticket-lifecycle)
+  - [User creation in PowerShell](https://github.com/nstroude/user-creation)
+  - [Group Policy and Access Control Management] (https://github.com/nstroude/access-ctrl)
 - <b>Network File Sharing and Access Control</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
