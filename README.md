@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [preparing Infrastructure for Active Directory in Azure](https://github.com/nstroude/Active Directory infrastructure)
+  - [preparing Infrastructure for Active Directory in Azure](https://github.com/nstroude/Active-Directory-infrastructure)
   - [osTicket: Post-Installation Configuration](https://github.com/nstroude/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/nstroude/ticket-lifecycle)
 - <b>Network File Sharing and Access Control</b>
