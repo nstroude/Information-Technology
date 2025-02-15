@@ -8,7 +8,7 @@
   - [User creation in PowerShell](https://github.com/nstroude/user-creation)
   - [Group Policy and Access Control Management](https://github.com/nstroude/access-ctrl)
 - <b>Network File Sharing and Access Control</b>
-  - [Network File Permissions](https://github.com/nstroude/network-file-setup)
+  - [Setup Network File Permissions](https://github.com/nstroude/network-file-setup)
   - [Testing User Access Controls](https://github.com/nstroude/testing-access)
 
 <h2>🤳Connect with me:</h2>
